@@ -1,6 +1,10 @@
-## Leetcode
+# LeetCode
 
-Day 1: 11/October/2026
+LeetCode Logs.
 
-- 1. https://leetcode.com/problems/two-sum/
-- 2. https://leetcode.com/problems/add-two-numbers/
+## Day 1 — 11 October 2026
+
+| #   | Problem                                                           | Solution                       |
+| --- | ----------------------------------------------------------------- | ------------------------------ |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | [Python](./1_TwoSum.py)        |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./2_AddTwoNumbers.py) |
