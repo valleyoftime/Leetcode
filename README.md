@@ -11,5 +11,5 @@ LeetCode Logs.
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./13_RomanToInteger.py) |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)   | [Python](./7_ReverseInteger.py)  |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)       | [Python](./242_ValidAnagram.py)  |
-
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Python](./141_LinkedListCycle.py)  |
 
