@@ -13,3 +13,5 @@ LeetCode Logs.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)       | [Python](./242_ValidAnagram.py)  |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Python](./141_LinkedListCycle.py)  |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)| [Python](./169_MajorityElement.py)  |
+| 160 | [Intersection of Two Linked Lists
+](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Python](./160_IntresectionOfTwoLL.py)  |
