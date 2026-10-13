@@ -1,9 +1,5 @@
 # LeetCode
 
-LeetCode Logs.
-
-## Day 1 — 11 October 2026
-
 | #   | Problem                                                             | Solution                         |
 | --- | ------------------------------------------------------------------- | -------------------------------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                   | [Python](./1_TwoSum.py)          |
@@ -15,3 +11,4 @@ LeetCode Logs.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)| [Python](./169_MajorityElement.py)  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Python](./160_IntresectionOfTwoLL.py)  |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)| [Python](./100_SameTree.py)  |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./100_SameTree.py)  |
