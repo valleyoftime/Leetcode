@@ -5,9 +5,9 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        char_mapper = [0]*26
+        char_mapper = [0] * 26
         for chars, chart in zip(s, t):
-            char_mapper[ord(chars) - ord('a')] += 1
-            char_mapper[ord(chart) - ord('a')] -= 1
-        
-        return False if any(char_mapper) != 0 else True
+            char_mapper[ord(chars) - ord("a")] += 1
+            char_mapper[ord(chart) - ord("a")] -= 1
+
+        return any(char_mapper) == 0
