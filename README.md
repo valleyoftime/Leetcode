@@ -14,3 +14,4 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./104_MaxDepthOfBinTree.py)  |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](./101_SymmetricTree.py)  |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./88_MergeSortedArray.py) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./3_LongestSubstringWithoutRepeatingCharacters.py) |
