@@ -13,3 +13,4 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)| [Python](./100_SameTree.py)  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./104_MaxDepthOfBinTree.py)  |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](./101_SymmetricTree.py)  |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./88_MergeSortedArray.py) |
